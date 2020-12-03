@@ -2,9 +2,9 @@
 A portfolio presenting my projects
 
 
-# [Projet 1 : Simulation de Boids avec tree.js](https://github.com/WexyR/IEVA_penguins)
+# [Projet 1 : Simulation de Boids avec three.js](https://github.com/WexyR/IEVA_penguins)
 
-Utilisation de la librairie Tree.js pour simuler des comportements multi-agents.
+Utilisation de la librairie [Three.js](https://threejs.org/) pour simuler des comportements multi-agents.
 ![]()
 
 # [Projet 2 : Détection de Fake news par NLP](https://github.com/ShinySilver/SIIA-FakeNewsDetection)
