@@ -15,4 +15,4 @@ Classification d'articles anglais en deux catégories (Fake ou Real)
 En utilisant le simulateur [pyBullet](https://pybullet.org/wordpress/) et l'architecture de [yolov4](https://github.com/pjreddie/darknet), j'ai construit un environement dans lequel pepper, un robot, guide un client vers une table puis lui apporte une chaise.
 
 ![](https://github.com/GaillardCorentin/Portfolio/blob/main/images/Pepper_detection.png)
-<img src="https://github.com/GaillardCorentin/Portfolio/blob/main/images/Pepper_alone.png" width="200" height="200" />
+<img src="https://github.com/GaillardCorentin/Portfolio/blob/main/images/Pepper_alone.png" width="400" height="400" />
