@@ -6,7 +6,7 @@ A portfolio presenting my projects
 
 Utilisation de la librairie [Three.js](https://threejs.org/) pour simuler des comportements multi-agents.
 
-![](https://github.com/GaillardCorentin/Portfolio/blob/main/images/threejs.png)
+![](/images/threejs.png)
 
 # [Projet 2 : Détection de Fake news par NLP](https://github.com/ShinySilver/SIIA-FakeNewsDetection)
 
