@@ -1,4 +1,4 @@
-# Portfolio Corentin Gaillard
+# Corentin Gaillard
 
 Je suis étudiant en dernière année à l'[ENIB](enib.fr), et en double diplôme [Master SIIA](https://www.univ-brest.fr/departement-informatique/menu/Master+Informatique/Parcours-SIIA)
 
