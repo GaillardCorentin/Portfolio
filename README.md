@@ -23,4 +23,4 @@ En utilisant le simulateur [pyBullet](https://pybullet.org/wordpress/) et l'arch
 
 
 # Contacts
-Vous pouvez me retrouver sur [linkedin](https://www.linkedin.com/in/corentin-gaillard-10658a172/)
+Vous pouvez me retrouver sur [linkedIn](https://www.linkedin.com/in/corentin-gaillard-10658a172/)
